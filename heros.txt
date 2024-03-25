@@ -1,0 +1,42 @@
+1.spider-Man
+2.Iron Man
+3.Captain America
+4.Thor
+5.Hulk
+6.Black Widow
+7.Hawkeye
+8.Wolverine
+9.Deadpool
+10.Black Panther
+11.Doctor Strange
+12.Scarlet Witch
+13.Ant-Man
+14.Wasp
+15.Captain Marvel
+16.Falcon
+17.Winter Soldier
+18.Daredevil
+19.Jessica Jones
+20.Luke Cage
+
+                  Spider-Man
+                      |
+           Iron Man --+-- Captain America
+                      |
+              Thor --+-- Hulk
+                      |
+     Black Widow --+-- Hawkeye
+                      |
+         Wolverine --+-- Deadpool
+                      |
+       Black Panther --+-- Doctor Strange
+                      |
+    Scarlet Witch --+-- Ant-Man
+                      |
+                Wasp --+-- Captain Marvel
+                      |
+              Falcon --+-- Winter Soldier
+                      |
+          Daredevil --+-- Jessica Jones
+                      |
+                Luke Cage
